@@ -1,3 +1,4 @@
+   <img height="150em" src="https://github.com/JoaoBruno09/JoaoBruno09/blob/main/message.gif"/>
   <a href="https://github.com/JoaoBruno09" target="_blank"><img src="https://img.shields.io/github/followers/JoaoBruno09.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
 <div>
   <a href="https://github.com/JoaoBruno09">
